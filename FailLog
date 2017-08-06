@@ -19,3 +19,20 @@ it anyways. I have used voyant before for analyzing song lyrics, but that was no
 I am having a hard time figuring out what Rezoviz is in Voyant. 
 Is this a seperate page in voyant? or should I be able to access it from the page which my results appear on? 
 I don't see the gear (cogwheel) symbol. I annotated the instructions and also asked in the slack space where to find it.
+Prof Graham said they changed the icons and the gear symbol no longer appears.
+It took me a while, but I did find the Rezoviz section.
+
+August 4: 
+I am currently doing excercise 10. I downloaded the file and am about to download the 4 .pkg files. 
+Ive downloaded them all and also, following the Making a Map with QGIS instructions, I downloaded the census.gov files 
+for US counties and will begin making a map. 
+
+Moving on the the second tutorial featured in the instructions: 
+I downloaded the map file, but it is an image file and i am unable to open it in QGIS. the instructions are not very clear
+as to what to do with that image. I will move on further down the page and see if there's a different file that i'm supposed 
+to use instead in QGIS. 
+The same thing happened with the Natural earth file, but then I realized that I was only supposed to select the SR_05M.tif file
+so now it is working. 
+
+Finished the tutorial and found it really interesting! I ran into no other issues while completing the exercise. 
+
